@@ -2,7 +2,7 @@
   "schema": 1,
   "version": "0.11.3",
   "windows": {
-    "url": "https://github.com/Snip-21/QGroundZub-Releases/releases/download/0.11.3/QGroundZub-installer-AMD64.exe",
+    "url": "https://github.com/Snip21-Main/QGroundZub-Releases/releases/download/0.11.3/QGroundZub-installer-AMD64.exe",
     "sha256": "fdff72250330ff4effff7ac122b649c652a994d5c07f7b340ddefaa51ea9de01",
     "size": 144963265
   },
